@@ -1,1 +1,2 @@
-let chau = "chau"
+let chau = "chau";
+let nos vemos = "nos vemos";
